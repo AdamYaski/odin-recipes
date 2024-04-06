@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    background-color: bisque;
+    color: black;
+    font-weight: bold;
+}
+
+.button {
+    background-color: rgb(29, 209, 68);
+}
+
+#ul {
+    color: blue;
+}
+
+#ol {
+    color: blue;
+}
